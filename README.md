@@ -17,6 +17,6 @@ This project is a simple and elegant Apple MacBook Air UI Card designed using on
 <h2>Technologies Used</h2>
 ⚫️HTML5
 <br>
-⚫️CSS3 (Flexbox/Grid for layout)
+⚫️CSS3 
 <br>
 <hr>
